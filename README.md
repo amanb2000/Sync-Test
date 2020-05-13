@@ -11,7 +11,7 @@ I want to use GitHub and GitLab concurrently, particularly for personal projects
 
 This should be showing up on the GitLab... 
 
-And it did!
+And it did! Here's another test of a change that should occur on both platforms simultaneously...
 
 ## Permissions and Protection
 

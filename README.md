@@ -7,5 +7,6 @@ I want to use GitHub and GitLab concurrently, particularly for personal projects
 
 ## Code
 
-
 `git remote set-url ––add origin https://gitlab.com/user/repo.git`
+
+This should be showing up on the GitLab...
